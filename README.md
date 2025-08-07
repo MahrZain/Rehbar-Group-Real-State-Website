@@ -172,6 +172,3 @@ Developed with ❤️ by  [NullxCoder](https://linktr.ee/nullxco)
 
 ---
 
-
-I’ll generate those too in one go.
-```
