@@ -29,6 +29,7 @@
 
 ### Prerequisites
 - Python 3.11+
+- Django
 - Node.js (for Tailwind)
 - PostgreSQL (recommended for production)
 
